@@ -1,2 +1,3 @@
-# basic_harbour
-Basic Harbour exercises.
+# Basic Harbour
+
+Test projects, written with basic knowledge of Harbour.
